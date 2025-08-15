@@ -12,3 +12,4 @@ These are the applications and tools you'll I use alongisde these configurations
 * **bottom (btm)**: A graphical and cross-platform process/system monitor.
 * **nvim**: A Vim-based text editor.
 * **oh my posh**: A custom prompt engine for any shell.
+* **Yazi**: Cross platform cli file manager.
